@@ -1,0 +1,7 @@
+C:\Users\glenn.purtill\source\repos\GetUniqueAccountNumbers\GetUniqueAccountNumbers\bin\Debug\GetUniqueAccountNumbers.exe.config
+C:\Users\glenn.purtill\source\repos\GetUniqueAccountNumbers\GetUniqueAccountNumbers\bin\Debug\GetUniqueAccountNumbers.exe
+C:\Users\glenn.purtill\source\repos\GetUniqueAccountNumbers\GetUniqueAccountNumbers\bin\Debug\GetUniqueAccountNumbers.pdb
+C:\Users\glenn.purtill\source\repos\GetUniqueAccountNumbers\GetUniqueAccountNumbers\obj\Debug\GetUniqueAccountNumbers.csprojAssemblyReference.cache
+C:\Users\glenn.purtill\source\repos\GetUniqueAccountNumbers\GetUniqueAccountNumbers\obj\Debug\GetUniqueAccountNumbers.csproj.CoreCompileInputs.cache
+C:\Users\glenn.purtill\source\repos\GetUniqueAccountNumbers\GetUniqueAccountNumbers\obj\Debug\GetUniqueAccountNumbers.exe
+C:\Users\glenn.purtill\source\repos\GetUniqueAccountNumbers\GetUniqueAccountNumbers\obj\Debug\GetUniqueAccountNumbers.pdb
